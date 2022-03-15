@@ -1,2 +1,3 @@
-hei,this is PEIGEN
-我是一名大二在校生，这里是我的学习笔记。
+Hey,this is PEIGEN.
+I am a college student. Here are my Java study notes.
+I hope we can make progress together
